@@ -17,13 +17,11 @@ int getAverage(int number);
 int findMaxNum(int number);
 int findMinNum(int number);
 
-
 int numList[] = {1,2,3,4,5,6};
 int samplesBeingAveraged[2]={0,0};
 int numSamplesBeingAveraged=2;
 int numSamplesBeingAveraged1Less=1;
 int average;
-
 
 #endif /* MOVINGAVERAGE_HELPER_H_ */
 
